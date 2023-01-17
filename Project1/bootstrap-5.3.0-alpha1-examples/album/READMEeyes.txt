@@ -1,0 +1,1 @@
+The Eye Movement Project is a project where a set of eyes that follows the coursor around. It uses the function onmousemove and a simple for statement. You can directly run the page by loading indexeyes.html or navigating through the main webpage index.html.
